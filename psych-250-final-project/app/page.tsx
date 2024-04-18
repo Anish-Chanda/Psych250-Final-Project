@@ -8,7 +8,7 @@ enum Category {
   Hiring = "Hiring",
   Leadership = "Leadership",
   Motivation = "Motivation",
-  OrganizationalCulture = "OrganizationCulture",
+  OrganizationalCulture = "OrganizationalCulture",
 }
 
 export default function Home() {
